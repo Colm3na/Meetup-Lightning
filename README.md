@@ -33,7 +33,6 @@ También se puede explorar tratar de usar BTCPay Server en local para no tener q
 [Raspibolt](https://github.com/Stadicus/RaspiBolt)
 
 
-<div style="text-align:center; margin-top: 50px"><img style="width:200px" alt="BTCPay" src="./img/btcpay.png"/></div>
 
 ## Recursos extra
 
